@@ -9,9 +9,9 @@ The courses enlisted in this specialization are as follows:
 
 - [ ] __Open Source tools for Data Science__
 
-- [ ] __Data Science Methodology__
+- [x] __Python for Data Science and AI__
 
-- [ ] __Python for Data Science and AI__
+- [ ] __Data Science Methodology__
 
 - [ ] __Databases and SQL for Data Science__
 
